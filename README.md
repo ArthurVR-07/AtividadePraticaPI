@@ -2,8 +2,8 @@
 
 Integrantes:
 
-Enzo Martins
-Gustavo Lima
-Rafael Naleto
-Emanuelly Cristini
-Arthur Rocha
+Enzo Martins \
+Gustavo Lima \
+Rafael Naleto \
+Emanuelly Cristini \
+Arthur Rocha \
