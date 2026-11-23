@@ -6,4 +6,4 @@ Enzo Martins \
 Gustavo Lima \
 Rafael Naleto \
 Emanuelly Cristini \
-Arthur Rocha \
+Arthur Rocha 
